@@ -1,19 +1,21 @@
 # README.md
 
+---
 Author: Akhila G P <br/>
-Title: Getting and Cleaning data Project <br/>
+Title: Getting and Cleaning data Project
+
 ---
 
 ## Files Submitted
 
 | Item description         	| Link 	                                |
 |-------------------------	|-------------------------------------- |
-| Github repository         | [repo link](1)                        |
-| R script to do analysis 	| [run_analysis.R](2)     	            |
-| Tidy data set           	| [tidyData.txt](3)     	            |
-| Codebook                	| [CodeBook.md](4)     	                |
-| README                  	| [README.md](5)     	                |
-| Codebook- detailed      	| [mergedData_DataReport.pdf](6)     	|
+| Github repository         | [repo link](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU)                        |
+| R script to do analysis 	| [run_analysis.R](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/run_analysis.R)     	            |
+| Tidy data set           	| [tidyData.txt](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/tidyData.txt)     	            |
+| Codebook                	| [CodeBook.md](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/CodeBook.md)     	                |
+| README                  	| [README.md](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/README.md)     	                |
+| Codebook- detailed      	| [mergedData_DataReport.pdf](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/mergedData_DataReport.pdf)     	|
 
 This README.md contains the following sections
 
@@ -58,7 +60,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Script used in processing
 
-The script `run_analysis.R` is used to perform the processing. It needs to be placed in the same directory as the `UCI HAR Dataset`. The output is the text file `tidyData.txt` and it's codebook is presented in [CodeBook.md](4).
+The script `run_analysis.R` is used to perform the processing. It needs to be placed in the same directory as the `UCI HAR Dataset`. The output is the text file `tidyData.txt` and it's codebook is presented in [CodeBook.md](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/CodeBook.md).
 
 The R script `run_analysis.R` performs the following steps.
 
