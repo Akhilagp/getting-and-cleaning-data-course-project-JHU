@@ -1,7 +1,9 @@
 # Codebook for Getting and Cleaning data Project
 
+---
 Author: Akhila G P <br/>
 Title: Getting and Cleaning data Project <br/>
+
 ---
 
 The codebook contains three sections.
