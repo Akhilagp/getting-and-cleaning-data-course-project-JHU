@@ -7,7 +7,7 @@ Title: Getting and Cleaning data Project <br/>
 The codebook contains three sections.
 - The dataset structure is explained in [Dataset overview](#dataset-overview). 
 - The variables in the dataset are listed in the [Variables](#variables) section.
-    - The detailed summaries and visualizations performed on the variables is attached in the [mergedData_DataReport.pdf](6). 
+    - The detailed summaries and visualizations performed on the variables is attached in the [mergedData_DataReport.pdf](https://github.com/Akhilagp/getting-and-cleaning-data-course-project-JHU/blob/master/mergedData_DataReport.pdf). 
 - The transformations applied on the source data is explained in [Transformations](#transformations) section.
 
 
